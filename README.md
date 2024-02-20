@@ -1,4 +1,4 @@
-# Telecom_Customer_Churn_Tableau_Data_Analysis
+# Telecom Customer Churn - Tableau and Python Data Analysis
 This repository contains my project on a End to end data science project on a Telecom Dataset. The project includes the EDA notebook and a Tableau Story for a Stakeholder Report.
 Project highlights:
 1. Tableau Story - Stakeholder Report
